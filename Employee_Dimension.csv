@@ -1,0 +1,51 @@
+Employee_ID,Employee_Name,Job_Role,Department,Hire_Date,Manager
+1,Carrie Bishop,Technician,Tech Support,2022-10-11,Troy Castillo MD
+2,Michele Hunt,Sales Associate,Management,2023-12-09,Deanna Munoz
+3,Shawn Gomez,Manager,Sales,2020-12-21,Samantha Floyd
+4,Mark Black,Sales Associate,Management,2021-12-28,Anthony Johnson
+5,Tina Spears,Customer Service,Customer Service,2020-10-19,Tonya Cooper
+6,Lauren Henry,Technician,Sales,2015-04-13,Nicholas Barrett
+7,Cindy Adams,Sales Associate,Sales,2017-04-26,Michael Torres
+8,Christopher Smith,Sales Associate,Tech Support,2017-09-03,Joshua Oconnor
+9,Brenda Buchanan,Technician,Sales,2018-09-12,Alex Burton
+10,Tracy Sanders,Customer Service,Tech Support,2021-07-25,Andrew Perez
+11,Jody Morgan,Manager,Sales,2016-06-03,Andrea Brown
+12,Stephen Norton,Customer Service,Management,2015-01-13,Jenny Stafford
+13,Jesus Nguyen,Technician,Customer Service,2023-11-23,Jeffrey Howard
+14,Andrew Wood,Technician,Customer Service,2016-05-05,Gary Hatfield
+15,Joseph Lopez,Manager,Sales,2020-02-04,Janet Ortiz
+16,Michael Fitzgerald,Manager,Management,2021-12-31,Joseph Fitzgerald
+17,Scott Scott,Technician,Tech Support,2020-02-15,Julie Williams
+18,Micheal Williams,Customer Service,Customer Service,2020-11-17,Jennifer Myers
+19,Andrea Murray,Manager,Customer Service,2022-08-04,Charles Melton
+20,Amber Lamb,Technician,Sales,2019-06-06,Morgan Hernandez
+21,Julia Wilson,Manager,Management,2022-05-16,Ryan Hoover
+22,Brett Cannon,Customer Service,Sales,2017-12-19,Alex Drake
+23,Thomas Alexander,Technician,Management,2017-07-21,Richard Sutton
+24,Jeffery Fischer,Customer Service,Sales,2020-01-24,Blake Pennington
+25,Amanda White,Sales Associate,Customer Service,2021-09-09,Lisa Ellis
+26,Carl Pitts DVM,Manager,Management,2021-06-29,Lance King
+27,Jeffrey Hawkins,Manager,Management,2017-01-12,Morgan Johnson
+28,Joshua Harris,Technician,Sales,2019-10-07,Amanda Davis
+29,Jeremy Jacobs,Technician,Sales,2020-10-08,Chris Young
+30,Debbie Hall,Sales Associate,Management,2015-02-20,Nicolas Sullivan
+31,Richard Garcia,Technician,Tech Support,2019-06-23,Johnathan Long
+32,Danielle Mitchell,Manager,Customer Service,2018-07-19,Steven Pierce
+33,Mary Harmon,Customer Service,Tech Support,2017-05-24,Patricia Duncan
+34,Shannon Martinez,Technician,Tech Support,2020-11-26,Michael Bryant
+35,Bailey Mclaughlin,Sales Associate,Tech Support,2015-12-17,Jennifer Crawford
+36,Michael Warner,Customer Service,Sales,2016-07-14,Patrick Johnson
+37,Connie Decker,Manager,Management,2017-03-23,Lauren Parsons
+38,Joseph Leonard,Technician,Tech Support,2019-05-07,Michael Clark
+39,Mark Mitchell,Sales Associate,Tech Support,2023-03-23,Gina Good
+40,Robert Tran,Technician,Customer Service,2020-04-17,Christine Knight
+41,Kevin Johnson,Manager,Customer Service,2019-06-26,Warren Middleton
+42,James Daugherty,Technician,Tech Support,2021-03-04,Michelle Maldonado
+43,Angela Hubbard,Manager,Customer Service,2021-09-14,Thomas Lam
+44,Patricia Hudson,Sales Associate,Tech Support,2023-03-13,Paul Smith
+45,Cindy Oconnor,Sales Associate,Customer Service,2017-05-01,Krystal Farley
+46,Olivia Gomez,Manager,Management,2018-11-05,Mario Morris
+47,Lori Lester,Sales Associate,Sales,2021-02-06,Lindsay Archer
+48,Roy Fox,Technician,Management,2021-06-29,Charles Williams
+49,Jesus Smith,Sales Associate,Tech Support,2019-10-14,Timothy Fry
+50,Matthew Guerrero,Customer Service,Tech Support,2018-07-13,Dr. Robert Osborne

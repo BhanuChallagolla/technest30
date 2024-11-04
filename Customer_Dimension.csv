@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Age_Group,Gender,Location,Loyalty_Status
+1,Lauren Hayes,46-60,Female,Seattle,Bronze
+2,Whitney Stark,18-25,Male,Houston,Silver
+3,Angela Salazar,36-45,Female,New York,Gold
+4,Mr. Ryan Sanchez,46-60,Male,Denver,Bronze
+5,Autumn Robinson,18-25,Male,Fort Worth,Bronze
+6,Faith Cabrera,26-35,Female,Houston,Bronze
+7,Charles Wolfe,46-60,Male,Los Angeles,Gold
+8,Kenneth Kent,46-60,Female,Houston,Silver
+9,Melanie Johnson,46-60,Male,Seattle,Platinum
+10,Lisa Johnston,18-25,Female,San Jose,Bronze
+11,Jacob Hooper,26-35,Male,Washington,Bronze
+12,Alex Woodward,26-35,Male,San Francisco,Bronze
+13,Caleb Clark,26-35,Male,Boston,Bronze
+14,Taylor Johnson,18-25,Male,San Francisco,Silver
+15,Brian Green,36-45,Female,Denver,Platinum
+16,Matthew Bell,60+,Female,Portland,Gold
+17,Jonathan Williams,46-60,Female,Chicago,Gold
+18,William Gonzalez,46-60,Male,Columbus,Silver
+19,Nicholas Massey,36-45,Female,Philadelphia,Bronze
+20,Caroline Chambers,60+,Male,New York,Silver
+21,Amy Lowe,36-45,Female,Portland,Silver
+22,Gloria King,18-25,Male,San Francisco,Silver
+23,Jessica Thompson,18-25,Male,Memphis,Platinum
+24,Jason Carroll,60+,Male,Indianapolis,Platinum
+25,Emily Howard,18-25,Male,San Jose,Silver
+26,Danielle Castro,60+,Female,Philadelphia,Silver
+27,Patrick Rogers,26-35,Female,Charlotte,Platinum
+28,Douglas Allen,60+,Female,Las Vegas,Silver
+29,Heather Roberts,26-35,Male,Oklahoma City,Platinum
+30,Travis Schultz,36-45,Female,Memphis,Platinum
+31,Michelle Hughes,36-45,Male,San Francisco,Gold
+32,Matthew Smith,18-25,Male,New York,Gold
+33,George Allen,26-35,Female,Columbus,Platinum
+34,Jamie Hutchinson,26-35,Female,Austin,Silver
+35,Jennifer Morales,26-35,Female,Washington,Silver
+36,Jennifer Bates,26-35,Male,Detroit,Silver
+37,Jeremy Green,46-60,Female,Memphis,Gold
+38,Joseph Freeman,46-60,Female,Louisville,Bronze
+39,Nicole Henson,36-45,Male,Philadelphia,Platinum
+40,Eric Owens PhD,46-60,Female,Memphis,Bronze
+41,Robin Lopez,18-25,Male,Jacksonville,Bronze
+42,Miss Angela Swanson DVM,46-60,Female,Philadelphia,Silver
+43,Michael Stewart,60+,Female,Charlotte,Bronze
+44,Mitchell Smith,26-35,Male,San Diego,Silver
+45,Kelsey Davis,36-45,Male,Philadelphia,Bronze
+46,Matthew Russo,60+,Female,San Jose,Platinum
+47,William Garcia,46-60,Female,Charlotte,Gold
+48,Jennifer Miller,60+,Male,Indianapolis,Gold
+49,Jesse Sparks,60+,Female,Philadelphia,Silver
+50,Brandi Meyer,60+,Female,San Francisco,Bronze
+51,Hannah Wiggins,46-60,Female,Detroit,Bronze
+52,Albert Williams,60+,Female,Los Angeles,Bronze
+53,Kristin Potts,60+,Female,El Paso,Bronze
+54,Susan Williams,60+,Female,Austin,Bronze
+55,Meredith Rios,18-25,Male,El Paso,Platinum
+56,Stephanie Bowman,60+,Male,El Paso,Gold
+57,Joshua Clark,46-60,Female,Phoenix,Silver
+58,Alexa Hernandez,36-45,Male,Philadelphia,Bronze
+59,Richard Higgins,18-25,Female,Seattle,Gold
+60,Marc Williams,26-35,Male,San Diego,Platinum
+61,William Roberts,26-35,Male,Jacksonville,Platinum
+62,Joshua Carter,46-60,Female,San Antonio,Platinum
+63,David Williams,18-25,Female,Indianapolis,Platinum
+64,Joseph Jones,18-25,Female,Denver,Bronze
+65,Gary Perry,26-35,Female,Indianapolis,Gold
+66,Terry Wells,36-45,Female,Portland,Silver
+67,Vanessa Cooper,60+,Male,Boston,Bronze
+68,Michael Simmons,36-45,Female,Nashville,Platinum
+69,Nicholas Kline,18-25,Female,Las Vegas,Platinum
+70,Lori Bennett,46-60,Female,Jacksonville,Platinum
+71,Margaret Jones,36-45,Male,Houston,Platinum
+72,Paul Brown,36-45,Male,Boston,Bronze
+73,James Stone,18-25,Female,Oklahoma City,Gold
+74,John Richards,26-35,Female,Chicago,Silver
+75,Jenny Richardson,18-25,Male,Charlotte,Gold
+76,Debbie Waters MD,36-45,Female,Nashville,Gold
+77,Austin Boyer,36-45,Female,Philadelphia,Silver
+78,Stephanie Hayes,46-60,Female,Seattle,Platinum
+79,Barbara Sanders,36-45,Male,Charlotte,Platinum
+80,Andrew Gould,46-60,Male,Seattle,Bronze
+81,Charles Gonzalez,36-45,Male,Indianapolis,Bronze
+82,Joshua Hernandez,26-35,Female,Dallas,Gold
+83,Victoria Hernandez MD,36-45,Male,Memphis,Silver
+84,Sherry Simpson,46-60,Male,San Diego,Silver
+85,Erica Jimenez,46-60,Male,Boston,Bronze
+86,Mr. Dakota Lynch II,46-60,Male,Columbus,Platinum
+87,Victor Nolan,36-45,Male,Philadelphia,Bronze
+88,Amanda Hernandez,46-60,Male,San Francisco,Gold
+89,Richard Kirby,60+,Female,San Antonio,Bronze
+90,Michelle Roman,26-35,Female,San Antonio,Platinum
+91,Bradley Melton,36-45,Female,Baltimore,Silver
+92,Danny Williams,46-60,Male,Indianapolis,Gold
+93,Ryan Rivera,26-35,Male,Nashville,Platinum
+94,Charles Douglas,36-45,Female,Portland,Gold
+95,Kathy Santana,26-35,Female,Memphis,Silver
+96,Laura Gregory,60+,Female,Houston,Bronze
+97,Norma Mooney,36-45,Male,Columbus,Bronze
+98,Susan Harris,46-60,Female,Denver,Silver
+99,Linda Petersen,18-25,Male,Baltimore,Bronze
+100,Dr. James Willis,46-60,Female,Louisville,Bronze
+101,Rebecca Sandoval,36-45,Male,Denver,Gold
+102,Christopher Hunter,46-60,Female,Boston,Bronze
+103,Austin Heath,18-25,Female,Phoenix,Bronze
+104,Elizabeth Russell,18-25,Female,San Antonio,Silver
+105,Amy Davidson,18-25,Male,Charlotte,Platinum
+106,Dustin Greer,46-60,Female,San Diego,Silver
+107,Andrew Butler,36-45,Male,Phoenix,Silver
+108,Scott Love DDS,46-60,Male,San Jose,Silver
+109,William Jenkins,18-25,Female,Washington,Silver
+110,Jasmine Williams,60+,Male,Dallas,Platinum
+111,Christian Johnson,18-25,Female,San Francisco,Silver
+112,Lorraine Garcia,18-25,Male,Nashville,Gold
+113,Hannah Reyes,36-45,Male,Columbus,Bronze
+114,Katherine Ibarra,46-60,Female,Charlotte,Gold
+115,Julie Chen,36-45,Male,Chicago,Bronze
+116,Caleb Fleming,46-60,Male,Indianapolis,Platinum
+117,Rachel Martinez,18-25,Male,Chicago,Platinum
+118,Rebecca Stark,18-25,Male,San Antonio,Silver
+119,Melanie Patrick,18-25,Male,Jacksonville,Platinum
+120,Rachel Lopez,46-60,Male,Columbus,Bronze
+121,Jill Sherman,18-25,Male,Boston,Platinum
+122,Richard Jones,36-45,Male,Las Vegas,Gold
+123,Timothy Tucker,36-45,Male,Indianapolis,Bronze
+124,Theresa Estrada,18-25,Female,Nashville,Platinum
+125,Cindy Davis,60+,Male,Austin,Platinum
+126,Stacy Chan,46-60,Female,Austin,Platinum
+127,Jennifer Torres,60+,Female,Washington,Bronze
+128,Jeffery Knight,18-25,Male,Baltimore,Silver
+129,Taylor Perry,60+,Female,Baltimore,Platinum
+130,Raymond Navarro,46-60,Female,San Francisco,Platinum
+131,Jeremy Parks,46-60,Female,Las Vegas,Gold
+132,Thomas Rivers,60+,Male,San Antonio,Silver
+133,Angela Jones,26-35,Male,Chicago,Platinum
+134,Allen Bailey,46-60,Female,Jacksonville,Platinum
+135,William Fuentes,18-25,Female,Indianapolis,Silver
+136,Steven Clark,18-25,Female,Houston,Silver
+137,Michael Mays,18-25,Female,Chicago,Bronze
+138,Adam Wood,26-35,Male,Los Angeles,Bronze
+139,Larry Villarreal,18-25,Female,Washington,Platinum
+140,Brian Cooper,60+,Male,Fort Worth,Gold
+141,Beverly Levy,26-35,Female,Las Vegas,Bronze
+142,John Carter,46-60,Male,Los Angeles,Bronze
+143,Tina Fields,26-35,Male,Nashville,Platinum
+144,Willie Garcia,18-25,Male,Oklahoma City,Gold
+145,Brooke Hurst,18-25,Male,Detroit,Silver
+146,Regina Stewart,60+,Female,Denver,Gold
+147,Paul Carter,46-60,Female,Las Vegas,Platinum
+148,Angel Anderson,46-60,Female,Philadelphia,Gold
+149,Blake Jones,26-35,Female,Louisville,Platinum
+150,Juan Yang,18-25,Female,Seattle,Platinum
+151,Jay Walsh,18-25,Male,Indianapolis,Bronze
+152,Jeremy Wood,26-35,Female,New York,Platinum
+153,Amy Ortiz,36-45,Male,San Jose,Gold
+154,Nicholas Flores,18-25,Female,Nashville,Gold
+155,Edward Ruiz,46-60,Male,Portland,Bronze
+156,Rebecca Hill,26-35,Female,Columbus,Platinum
+157,Melissa Flynn,26-35,Male,San Jose,Gold
+158,James Saunders,60+,Female,Nashville,Silver
+159,David Chavez,18-25,Female,Columbus,Bronze
+160,Brenda Ford,18-25,Male,San Antonio,Platinum
+161,Karen Harris,46-60,Male,El Paso,Silver
+162,Michael Montgomery,36-45,Male,New York,Gold
+163,Edwin Mack,46-60,Female,Baltimore,Silver
+164,Kimberly Moore,36-45,Female,San Jose,Silver
+165,Kaitlin Gregory,60+,Female,Los Angeles,Bronze
+166,Crystal Gill,46-60,Male,Baltimore,Silver
+167,William Martinez,46-60,Male,San Jose,Silver
+168,Amanda Scott,18-25,Female,Baltimore,Platinum
+169,Lauren Foster,46-60,Male,Baltimore,Silver
+170,David Campbell,18-25,Male,Nashville,Platinum
+171,Susan Larson,60+,Female,Nashville,Gold
+172,Ricky Torres,36-45,Male,El Paso,Bronze
+173,Joseph Wright,46-60,Male,Chicago,Silver
+174,Carla Perry,60+,Male,Columbus,Silver
+175,Joseph Berry,18-25,Female,Philadelphia,Platinum
+176,Kim Jenkins,36-45,Male,New York,Platinum
+177,Jennifer Osborne,46-60,Female,Detroit,Bronze
+178,Ebony Watson,46-60,Male,Indianapolis,Silver
+179,Brooke Terry,26-35,Female,Columbus,Gold
+180,Kevin Taylor,46-60,Male,Jacksonville,Bronze
+181,Heather Kennedy,60+,Female,Philadelphia,Silver
+182,John Neal,46-60,Female,Los Angeles,Gold
+183,Matthew Brown,46-60,Male,Philadelphia,Silver
+184,Patrick Williams,26-35,Male,Las Vegas,Gold
+185,Allison Ruiz,26-35,Female,San Jose,Silver
+186,Alexandra Rose,26-35,Male,Jacksonville,Platinum
+187,Sean Parks,46-60,Female,Fort Worth,Gold
+188,Maureen Smith,36-45,Male,Austin,Platinum
+189,Marc Key,36-45,Female,Memphis,Silver
+190,Melissa Acosta,60+,Male,Charlotte,Gold
+191,Paul Roberts,46-60,Male,Memphis,Platinum
+192,Joel Rivera,26-35,Male,San Francisco,Gold
+193,Javier Prince,36-45,Male,Charlotte,Gold
+194,Jermaine Fletcher,46-60,Female,Louisville,Gold
+195,Beverly Lozano,26-35,Female,Phoenix,Bronze
+196,Richard Price,60+,Male,El Paso,Platinum
+197,Jean Robinson,36-45,Female,Los Angeles,Gold
+198,Todd Willis,36-45,Male,San Jose,Gold
+199,James Young,18-25,Female,New York,Platinum
+200,Cody Brown,26-35,Female,El Paso,Gold

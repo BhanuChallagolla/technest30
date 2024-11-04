@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Brand,Price,Supplier_ID
+1,small Gadget,Smartphone,"West, Manning and Cole",1940.75,6
+2,population Gadget,Laptop,"Jacobson, Patrick and Garcia",70.48,20
+3,cup Gadget,Laptop,Martin Inc,1778.33,12
+4,available Gadget,Accessories,Walters-Shepard,1423.05,9
+5,often Gadget,Smart Home,Kim-Todd,569.99,1
+6,would Gadget,Smart Home,Lynch-Davis,1791.83,18
+7,language Gadget,TV,Vasquez LLC,72.51,6
+8,family Gadget,Smartphone,Farmer Group,1258.76,5
+9,then Gadget,TV,Rowe-Garrett,672.49,2
+10,contain Gadget,Smart Home,Terry-Carson,1934.9,6
+11,next Gadget,TV,"Marshall, Gallegos and Martinez",353.78,17
+12,condition Gadget,Smart Home,"Ramirez, Short and Sanders",1804.94,7
+13,at Gadget,Smart Home,"Taylor, Miller and Hancock",673.27,9
+14,reason Gadget,Laptop,Smith-Lee,1780.68,20
+15,purpose Gadget,TV,Powers Group,1034.65,5
+16,coach Gadget,Laptop,Edwards Inc,1031.05,11
+17,particularly Gadget,TV,Long-Martinez,785.92,11
+18,break Gadget,Smart Home,"Hill, Lambert and Larson",1069.58,4
+19,year Gadget,Smart Home,Delacruz-Dixon,1890.52,6
+20,mother Gadget,Accessories,Martinez and Sons,1787.87,10
+21,project Gadget,Laptop,Thornton-Moran,1360.69,9
+22,style Gadget,Smartphone,"Williams, Colon and Williams",1285.27,18
+23,of Gadget,TV,"Vazquez, Terry and Hughes",1105.76,20
+24,point Gadget,Smartphone,Cooper PLC,559.91,9
+25,if Gadget,Accessories,Miller and Sons,313.57,11
+26,somebody Gadget,Smart Home,Harris-Green,1715.48,2
+27,learn Gadget,Laptop,"Erickson, Casey and Holmes",1277.41,15
+28,exactly Gadget,Smartphone,Lutz-Moore,613.29,6
+29,foreign Gadget,Laptop,Tran-Johnson,931.24,17
+30,feel Gadget,Smart Home,"Thompson, Hunt and Huang",68.56,4
+31,add Gadget,Laptop,Meyers-Jones,1124.97,8
+32,later Gadget,Laptop,"Gibbs, Carr and Burnett",735.08,2
+33,start Gadget,TV,"Moore, Cook and Rios",1015.36,9
+34,ten Gadget,Smartphone,Ingram-Brown,324.18,1
+35,serious Gadget,Accessories,Hoover LLC,862.51,6
+36,fast Gadget,Laptop,Hess Inc,1814.22,16
+37,young Gadget,Laptop,Patterson LLC,36.85,7
+38,evening Gadget,Accessories,"Hayes, Bass and Hunt",1938.35,16
+39,note Gadget,Smartphone,"Wilson, Stewart and Johnson",1387.97,6
+40,new Gadget,Smart Home,"Martinez, Morgan and Lawson",216.84,10
+41,once Gadget,TV,Gutierrez Inc,593.76,18
+42,friend Gadget,Accessories,"Collins, Price and Williams",1087.37,17
+43,guess Gadget,Laptop,"Jackson, Hull and Mcintosh",1453.81,17
+44,customer Gadget,Smart Home,Brown-Kelly,789.96,12
+45,season Gadget,TV,"Avila, Chambers and Hart",469.63,15
+46,stay Gadget,Accessories,Gutierrez-Johnson,920.62,6
+47,lay Gadget,Laptop,Lee-Hughes,1944.72,20
+48,strong Gadget,Smartphone,Davis-Johnson,1670.96,16
+49,change Gadget,Accessories,Thompson PLC,1831.29,14
+50,through Gadget,Laptop,"Valdez, Smith and Bryant",1341.22,12
+51,according Gadget,Smart Home,"Reese, Neal and Alvarez",892.52,12
+52,social Gadget,Accessories,Nichols Group,1376.48,2
+53,much Gadget,TV,Johnson-Black,1304.22,8
+54,clearly Gadget,Smartphone,Cook Inc,77.62,17
+55,still Gadget,Accessories,Donaldson-Moore,1840.67,8
+56,recent Gadget,Accessories,"Garrett, Mitchell and Johnson",1094.06,16
+57,science Gadget,Smartphone,Morgan-Blackburn,1982.46,1
+58,wind Gadget,Smart Home,"Thomas, Thompson and Mccall",778.54,5
+59,station Gadget,TV,"Frazier, Hahn and Villa",1617.21,19
+60,order Gadget,Laptop,Dougherty-Webb,932.79,3
+61,if Gadget,Smart Home,"Gregory, Williams and Allen",1657.11,9
+62,herself Gadget,Laptop,Murphy-Burch,1087.45,11
+63,majority Gadget,TV,Perez-Johns,1776.78,6
+64,although Gadget,Smart Home,Cox-Cunningham,1762.61,7
+65,or Gadget,Accessories,Cunningham-Smith,670.04,7
+66,while Gadget,Smart Home,"Smith, Price and Solis",820.76,5
+67,its Gadget,Laptop,Smith LLC,1098.4,2
+68,provide Gadget,Accessories,"Smith, Williams and Frost",1250.95,5
+69,positive Gadget,Smartphone,"Carr, Osborne and Nunez",771.13,6
+70,success Gadget,Smart Home,French-Barnes,1093.42,6
+71,summer Gadget,Smart Home,"Mcintyre, Cook and Wright",259.42,7
+72,soon Gadget,Accessories,Cox and Sons,1367.78,4
+73,drive Gadget,Smart Home,"Morales, Anderson and Knight",588.5,18
+74,we Gadget,Accessories,Church-Reynolds,105.09,16
+75,admit Gadget,Smartphone,Sanchez-James,249.87,19
+76,high Gadget,Smart Home,Allen-Olson,230.73,10
+77,newspaper Gadget,Laptop,"Jones, King and Hill",646.65,5
+78,yeah Gadget,Smart Home,"Watson, Johnson and Carr",508.14,18
+79,cold Gadget,Accessories,Mcdowell-Hill,1134.31,3
+80,response Gadget,Accessories,"Morris, Yates and Maynard",1814.58,20
+81,day Gadget,Laptop,Ferguson Inc,1168.61,4
+82,program Gadget,Laptop,Reeves Inc,1203.91,14
+83,health Gadget,Accessories,Simon-Bray,491.33,12
+84,product Gadget,Accessories,Middleton-Reeves,1170.16,14
+85,scene Gadget,Smart Home,"Murray, Jackson and Wells",308.82,5
+86,model Gadget,Accessories,Lawrence LLC,684.55,18
+87,after Gadget,Laptop,"Rodriguez, Richardson and Thomas",1258.55,7
+88,side Gadget,Smart Home,Miranda-Mccoy,735.39,16
+89,simple Gadget,Accessories,Gonzalez LLC,1823.77,3
+90,enjoy Gadget,Smartphone,Cummings LLC,1759.42,11
+91,owner Gadget,Laptop,James-Williams,879.63,18
+92,wait Gadget,Smartphone,"Reynolds, Fleming and Adams",1044.87,6
+93,effort Gadget,Smart Home,"Clark, Anderson and Rodriguez",959.84,5
+94,face Gadget,Laptop,Martin-Jordan,385.04,5
+95,crime Gadget,Smart Home,Ford-May,880.83,16
+96,you Gadget,TV,"Becker, Strickland and Gardner",391.35,3
+97,son Gadget,Laptop,"Taylor, Hernandez and Martin",1436.11,12
+98,with Gadget,Smart Home,Fox Group,1055.55,3
+99,kitchen Gadget,Smartphone,Yoder-Hanson,654.72,2
+100,bank Gadget,Smart Home,Moran-Rogers,26.14,15

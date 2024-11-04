@@ -1,0 +1,31 @@
+Store_ID,Store_Name,Location,Size,Manager,Opening_Date
+1,TechNest Store 1,Columbus,7732,Norma Fisher,2017-03-11
+2,TechNest Store 2,Dallas,15799,Jorge Sullivan,2014-05-03
+3,TechNest Store 3,Baltimore,14845,Elizabeth Woods,2011-03-28
+4,TechNest Store 4,San Jose,8264,Susan Wagner,2009-05-15
+5,TechNest Store 5,Philadelphia,18123,Peter Montgomery,2011-07-29
+6,TechNest Store 6,El Paso,9859,Theodore Mcgrath,2017-12-19
+7,TechNest Store 7,San Francisco,19019,Stephanie Collins,2020-06-07
+8,TechNest Store 8,El Paso,14225,Stephanie Sutton,2001-05-05
+9,TechNest Store 9,Houston,12891,Brian Hamilton,2004-05-14
+10,TechNest Store 10,Las Vegas,9373,Susan Levy,2013-01-06
+11,TechNest Store 11,Charlotte,10874,Sean Green,2005-02-05
+12,TechNest Store 12,Dallas,19116,Kimberly Smith,2018-11-19
+13,TechNest Store 13,San Jose,19935,Jennifer Summers,2008-06-07
+14,TechNest Store 14,Las Vegas,11744,April Snyder,2012-12-28
+15,TechNest Store 15,El Paso,8468,Dana Nguyen,2000-11-01
+16,TechNest Store 16,Fort Worth,19650,Cheryl Bradley,2002-05-19
+17,TechNest Store 17,Portland,5705,Walter Pratt,2002-05-06
+18,TechNest Store 18,Los Angeles,7599,Bobby Flores,2019-06-02
+19,TechNest Store 19,El Paso,15327,Tasha Rodriguez,2019-01-02
+20,TechNest Store 20,Baltimore,7222,Michelle Kelley,2004-10-28
+21,TechNest Store 21,San Diego,12768,Kimberly Maynard,2008-12-09
+22,TechNest Store 22,Dallas,7897,Laurie Wallace,2006-12-04
+23,TechNest Store 23,San Antonio,14893,Janice Johnston,2006-09-28
+24,TechNest Store 24,San Antonio,5537,Collin Lopez,2010-03-24
+25,TechNest Store 25,Detroit,16085,Mary Alvarez,2015-10-07
+26,TechNest Store 26,San Diego,11216,Peter Mcdowell,2014-07-20
+27,TechNest Store 27,Las Vegas,11921,Sarah Villanueva,2007-04-07
+28,TechNest Store 28,Jacksonville,11036,Kimberly Myers,2009-04-20
+29,TechNest Store 29,Seattle,7163,Desiree Cain,2007-10-06
+30,TechNest Store 30,Austin,10072,Stephanie Lawrence,2002-11-01
